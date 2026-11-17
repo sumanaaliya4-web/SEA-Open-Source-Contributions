@@ -1,10 +1,12 @@
 # DevOps Practices and CI/CD Pipelines
 
 **Student Name:** Aaliya
-**USN:** <YOUR USN>
-**Department:** Computer Science Engineering
-**Assigned Case Study:** Question 3 – DevOps Practices and CI/CD Pipelines
 
+**USN:** NB25CSE003
+
+**Department:** Computer Science Engineering
+
+**Assigned Case Study:** Question 3 – DevOps Practices and CI/CD Pipelines
 ---
 
 ## 1. Introduction
